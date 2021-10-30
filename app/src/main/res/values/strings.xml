@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">projecttgu2</string>
+    <string name="button">кнопка</string>
+    <string name="bye">bye</string>
+    <string name="hello">hello</string>
+    <string name="кнопка_жми">жми</string>
+    <string name="введите_текст">Введите текст</string>
+    <string name="напиши">Напиши что нибудь...</string>
 </resources>
